@@ -334,7 +334,7 @@ if(isset($_POST['submit']))
                             </div>
 
                             <div class="col-md-12">
-                                <input class="form-control" type="text" name="phno" placeholder="Phone Number" required>
+                                <input class="form-control" type="text" name="phno" placeholder="Password" required>
                                  <div class="valid-feedback"> field is valid!</div>
                                  <div class="invalid-feedback"> field cannot be blank!</div>
                             </div>
